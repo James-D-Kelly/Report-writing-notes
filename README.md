@@ -11,7 +11,20 @@ Avoid false starts - dont start a letter or email with a word ending with ing.
 - gather info
 - define reader
 - define purpose
-- jot random topics down
+- jot random topics down - literally everything i think of
 - delete irrelevent topics
 - group related topics
 - arrange topic groups
+
+
+writing process
+- write first draft
+- take break
+- write second draft
+
+CHecking for tone/style
+- keep to subject
+- remove all unnecessary info
+
+Clarity - logical order
+- emphatic
